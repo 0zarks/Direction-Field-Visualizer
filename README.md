@@ -16,7 +16,7 @@ Built for **Differential Equations students**, with:
 
 Click the link below to open the visualizer in Google Colab:
 
-👉 **[Open in Google Colab](PUT_COLAB_LINK_HERE)**
+👉 **[Open in Google Colab](https://colab.research.google.com/github/0zarks/Direction-Field-Visualizer/blob/main/Direction_Field_Visualizer.ipynb)**
 
 ---
 
